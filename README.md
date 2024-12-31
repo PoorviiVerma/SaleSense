@@ -2,7 +2,7 @@
 
 ![Demo App](/public/screenshot-for-readme-1.png)
 ![Demo App](/public/screenshot-for-readme-2.png)
-![Demo App](/public/screenshot-for-readme-3.png)
+![Demo App](/public/screenshot-for-readme-.png)
 
 [Video Tutorial on Youtube](https://youtu.be/gK0v_d91epk)
 
